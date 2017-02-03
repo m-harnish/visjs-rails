@@ -59,6 +59,7 @@ https://github.com/almende/vis
   - v4.2.0.4 : renamed vis.css.scss to vis.scss
   - v4.14.0  : updated to vis.js 4.14.0
   - v4.15.1  : updated to vis.js 4.15.1
+  - v4.18.1  : updated to vis.js 4.18.1
 
 ## Contributing
 
