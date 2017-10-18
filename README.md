@@ -61,6 +61,7 @@ https://github.com/almende/vis
   - v4.15.1  : updated to vis.js 4.15.1
   - v4.18.1  : updated to vis.js 4.18.1
   - v4.20.1  : updated to vis.js 4.20.1
+  - v4.21.0  : updated to vis.js 4.21.0
 
 ## Contributing
 
